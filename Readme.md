@@ -1,6 +1,6 @@
 # <p align="center"> Spotify Clone 🎶</p> 
 
-### <div align="center"><code> Projeto mão na massa desenvolvido </code></div>
+### <div align="center"><code> Projeto mão na massa desenvolvido na Aula Experimental WebStarter do HcodeLab </code></div>
  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
