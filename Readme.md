@@ -2,6 +2,10 @@
 
 ### <div align="center"><code> Projeto mão na massa desenvolvido na Aula Experimental WebStarter do HcodeLab </code></div>
  
+<div align="center">
+    <b><a href="https://guidsribeiro.github.io/spotify-clone/">Site onde o Projeto é Carregado!</a></b>
+</div>
+ 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
